@@ -16,11 +16,9 @@ A new Flutter project.
 ####   - main.dart
 
 ## UI:
-### Khusanboev, [‎5‎/‎18‎/‎2022 ‎12‎:‎45‎ ‎AM]
-
-### Khusanboev, [‎5‎/‎18‎/‎2022 ‎12‎:‎45‎ ‎AM]
-
-### Khusanboev, [‎5‎/‎18‎/‎2022 ‎12‎:‎45‎ ‎AM]
+### ![img_1.png](img_1.png)
+### ![img_2.png](img_2.png)
+### ![img_3.png](img_3.png)
 
 
 
