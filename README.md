@@ -7,11 +7,12 @@ A new Flutter project.
 ### Description:
 
 ### assets:
-###   - images: img.jpg
-### lib 
+###   - images: 
+###     img.jpg
+### lib: 
 ###   - screens:
-###       home_screen 
-###       second_screen 
+###     home_screen 
+###     second_screen 
 ###   -main.dart
 
 
