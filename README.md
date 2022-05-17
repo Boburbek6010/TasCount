@@ -22,10 +22,6 @@ A new Flutter project.
 ## 
 main
 ```
-import 'package:darsda/screens/home_screen.dart';
-import 'package:darsda/screens/second_screen.dart';
-import 'package:flutter/material.dart';
-
 void main(){
   runApp(const MyApp());
 }
