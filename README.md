@@ -8,11 +8,11 @@ A new Flutter project.
 
 ### assets:
 ####   - images: 
-#####        img.jpg
+######        img.jpg
 ### lib: 
 ####   - screens:
-#####        home_screen.dart 
-#####        second_screen.dart 
+######        home_screen.dart 
+######        second_screen.dart 
 ####   - main.dart
 
 
