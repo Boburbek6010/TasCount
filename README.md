@@ -16,11 +16,8 @@ A new Flutter project.
 ####   - main.dart
 
 ## UI:
-### | <img src="assets/images/Screenshot_2022-05-18-00-45-14-384_com.example.darsda.jpg" width="250"> | <img src="assets/images/Screenshot_2022-05-18-00-45-14-384_com.example.darsda.jpg" width="250"> |
-###### ![img_1.png](img_1.png)
-####### ![img_2.png](img_2.png)
- ![img_3.png](img_3.png)
-#### <img src="assets/images/Screenshot_2022-05-18-00-45-14-384_com.example.darsda.jpg">
+### | <img src="assets/images/Screenshot_2022-05-18-00-45-14-384_com.example.darsda.jpg" width="250"> | <img src="assets/images/Screenshot_2022-05-18-00-45-22-244_com.example.darsda.jpg" width="250"> | <img src="assets/images/Screenshot_2022-05-18-00-45-19-233_com.example.darsda.jpg" width="250">
+
 
 
 
