@@ -6,10 +6,10 @@ A new Flutter project.
 
 ###Description:
 
-  ####assets
+  ###assets
       -images
         -img.jpg
-  ####lib 
+  ###lib 
     -screens
       -home_screen
       -second_screen 
