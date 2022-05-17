@@ -18,6 +18,54 @@ A new Flutter project.
 ## UI:
 ### | <img src="assets/images/Screenshot_2022-05-18-00-45-14-384_com.example.darsda.jpg" width="250"> | <img src="assets/images/Screenshot_2022-05-18-00-45-22-244_com.example.darsda.jpg" width="250"> | <img src="assets/images/Screenshot_2022-05-18-00-45-19-233_com.example.darsda.jpg" width="250">
 
+## Example:
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+
+```
+import 'package:darsda/screens/home_screen.dart';
+import 'package:darsda/screens/second_screen.dart';
+import 'package:flutter/material.dart';
+
+void main(){
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget{
+  const MyApp({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: const HomeScreen(),
+      routes: {
+        HomeScreen.id: (context) => const HomeScreen(),
+        SecondScreen.id: (context) => const SecondScreen(),
+      },
+    );
+  }
+}
+
+
+
+```
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 
