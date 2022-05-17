@@ -6,19 +6,19 @@ A new Flutter project.
 
 ###Description:
 
-    assets 
+assets 
+     |
+     -images
+           |
+           -img.jpg
+lib
+  |
+  -screens
          |
-         -images
-               |
-               -img.jpg
-    lib
-      |
-      -screens
-             |
-             -home_screen
-             |
-             -second_screen
-      |-main.dart
+         -home_screen
+         |
+         -second_screen
+  |-main.dart
 
 
 
