@@ -8,12 +8,12 @@ A new Flutter project.
 
 ### assets:
 ###   - images: 
-###     img.jpg
+####        img.jpg
 ### lib: 
 ###   - screens:
-###     home_screen 
-###     second_screen 
-###   -main.dart
+####        home_screen.dart 
+####        second_screen.dart 
+###   - main.dart
 
 
 
