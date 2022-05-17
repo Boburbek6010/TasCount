@@ -20,19 +20,7 @@ A new Flutter project.
 
 ## Example:
 ## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-
+main
 ```
 import 'package:darsda/screens/home_screen.dart';
 import 'package:darsda/screens/second_screen.dart';
@@ -57,14 +45,6 @@ class MyApp extends StatelessWidget{
   }
 }
 
-
-
-```
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
 
 
