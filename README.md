@@ -7,13 +7,13 @@ A new Flutter project.
 ### Description:
 
 ### assets:
-###   - images: 
-####        img.jpg
+####   - images: 
+#####        img.jpg
 ### lib: 
-###   - screens:
-####        home_screen.dart 
-####        second_screen.dart 
-###   - main.dart
+####   - screens:
+#####        home_screen.dart 
+#####        second_screen.dart 
+####   - main.dart
 
 
 
