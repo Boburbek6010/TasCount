@@ -4,12 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-###Description:
+### Description:
 
-###assets
+### assets
   -images
     -img.jpg
-###lib 
+### lib 
   -screens
     -home_screen
     -second_screen 
