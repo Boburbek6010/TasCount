@@ -1,8 +1,26 @@
-# TasCount
+# TasCount App
 
 A new Flutter project.
 
 ## Getting Started
+
+###Description:
+
+    assets 
+         |
+         -images
+               |
+               -img.jpg
+    lib
+      |
+      -screens
+             |
+             -home_screen
+             |
+             -second_screen
+      |-main.dart
+
+
 
 This project is a starting point for a Flutter application.
 
