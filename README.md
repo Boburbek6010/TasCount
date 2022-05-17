@@ -10,8 +10,8 @@ A new Flutter project.
 ###   - images: img.jpg
 ### lib 
 ###   - screens:
-###      - home_screen 
-###      - second_screen 
+###     - home_screen 
+###     - second_screen 
 ###   -main.dart
 
 
